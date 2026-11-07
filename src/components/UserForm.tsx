@@ -71,7 +71,7 @@ const UserForm = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-5">
+    <div className=" bg-gray-100 flex items-center justify-center p-5">
       <div className="bg-white w-full max-w-lg rounded-xl shadow-lg p-6">
 
 
